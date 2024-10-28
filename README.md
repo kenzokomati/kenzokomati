@@ -28,8 +28,6 @@ In this page you'll projects that I participated or developed as a side project.
 ![Static Badge](https://img.shields.io/badge/Oracle%20Cloud-20232A?style=for-the-badge&logo=oracle&logoColor=orange)
 ![Static Badge](https://img.shields.io/badge/AWS-20232A?style=for-the-badge&logo=amazon-web-services&logoColor=white)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kenzokomati&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenzokomati&layout=compact&theme=transparent)
 
 ## 🔗 Links
 
