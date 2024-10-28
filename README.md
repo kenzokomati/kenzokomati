@@ -1,7 +1,7 @@
 # 🤗Hey, glad you're here!
-I have a solid background in technology and programming, acquired through practical projects and diverse experiences. As a scholarship student in the Nikkei Community's Future Generation Training Program, I spent a month in Japan on an educational and sociocultural exchange, which provided me with unique adaptation and communication skills in multicultural environments. In addition, I took part in a voluntary research project focused on the classification of cardiac arrhythmias and ischemia from electrocardiograms, where I developed my analytical and technical skills.
+I have a solid background in technology and programming, acquired through practical projects and diverse experiences. As a scholarship student in the Nikkei Community's Future Generation Training Program, I spent a month in Japan on an educational and sociocultural exchange, which provided me with unique adaptation and communication skills in multicultural environments. In addition, I took part in a voluntary research project focused on classifying cardiac arrhythmias and ischemia from electrocardiograms, where I developed my analytical and technical skills.
 
-In this page you'll projects that I participated or developed as a side project. 
+Here you'll find projects I participated in or developed as a side project. 
 
 ## 🛠 Skills
 
