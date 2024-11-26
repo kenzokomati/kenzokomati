@@ -1,6 +1,5 @@
 # 🤗Hey, glad you're here!
-I have a solid background in technology and programming, acquired through practical projects and diverse experiences. As a scholarship student in the Nikkei Community's Future Generation Training Program, I spent a month in Japan on an educational and sociocultural exchange, which provided me with unique adaptation and communication skills in multicultural environments. In addition, I took part in a voluntary research project focused on classifying cardiac arrhythmias and ischemia from electrocardiograms, where I developed my analytical and technical skills.
-
+I possess a robust foundation in technology and programming, honed through hands-on projects and diverse experiences. As a scholar in the Future Generation Training Program of the Nikkei Community, I had the opportunity to spend a month in Japan on an educational and socio-cultural exchange. This experience equipped me with exceptional adaptation and communication skills in multicultural settings. Additionally, my involvement in a voluntary research project focused on classifying arrhythmias and cardiac ischemias from electrocardiograms further developed my analytical and technical expertise.
 Here you'll find projects I participated in or developed as a side project. 
 
 ## 🛠 Skills
@@ -11,10 +10,12 @@ Here you'll find projects I participated in or developed as a side project.
 ![Static Badge](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=yellow)
 ![Static Badge](https://img.shields.io/badge/Clojure-20232A?style=for-the-badge&logo=clojure&logoColor=green)
 
+![Static Badge](https://img.shields.io/badge/django-20232A?style=for-the-badge&logo=django&logoColor=green)
 ![Static Badge](https://img.shields.io/badge/pandas-20232A?style=for-the-badge&logo=pandas)
 ![Static Badge](https://img.shields.io/badge/numpy-20232A?style=for-the-badge&logo=numpy)
 ![Static Badge](https://img.shields.io/badge/tensorflow-20232A?style=for-the-badge&logo=tensorflow)
 ![Static Badge](https://img.shields.io/badge/scikitlearn-20232A?style=for-the-badge&logo=scikitlearn)
+![Static Badge](https://img.shields.io/badge/opencv-20232A?style=for-the-badge&logo=opencv)
 ![Static Badge](https://img.shields.io/badge/jupyter-20232A?style=for-the-badge&logo=jupyter)
 
 ![Static Badge](https://img.shields.io/badge/Postgresql-20232A?style=for-the-badge&logo=postgresql&logoColor=blue)
@@ -30,6 +31,5 @@ Here you'll find projects I participated in or developed as a side project.
 
 
 ## 🔗 Links
-
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenzo-komati/)
 [![Gmail](https://img.shields.io/badge/Mail-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kenzo.komati@gmail.com)
