@@ -5,10 +5,8 @@ Here you'll find projects I participated in or developed as a side project.
 ## 🛠 Skills
 
 ![Static Badge](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=fff)
-![Static Badge](https://img.shields.io/badge/C-20232A?style=for-the-badge&logo=c&logoColor=blue)
 ![Static Badge](https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=openjdk&logoColor=orange)
 ![Static Badge](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=yellow)
-![Static Badge](https://img.shields.io/badge/Clojure-20232A?style=for-the-badge&logo=clojure&logoColor=green)
 
 ![Static Badge](https://img.shields.io/badge/django-20232A?style=for-the-badge&logo=django&logoColor=green)
 ![Static Badge](https://img.shields.io/badge/pandas-20232A?style=for-the-badge&logo=pandas)
